@@ -1,8 +1,8 @@
 Arguments: 
-  /Users/ghack/.nvm/versions/node/v14.19.0/bin/node /opt/homebrew/Cellar/yarn/1.22.17_2/libexec/bin/yarn.js install
+  /Users/ghack/.nvm/versions/node/v14.19.0/bin/node /opt/homebrew/Cellar/yarn/1.22.17_2/libexec/bin/yarn.js
 
 PATH: 
-  /Users/ghack/opt/anaconda3/bin:/Users/ghack/opt/anaconda3/condabin:/Users/ghack/.nvm/versions/node/v14.19.0/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/MacGPG2/bin:/Library/Apple/usr/bin
+  /Users/ghack/opt/anaconda3/bin:/Users/ghack/opt/anaconda3/condabin:/Users/ghack/.nvm/versions/node/v14.19.0/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/MacGPG2/bin:/Library/Apple/usr/bin:/Users/ghack/Desktop/react/native/restaurant/node_modules/.bin
 
 Yarn version: 
   1.22.17
